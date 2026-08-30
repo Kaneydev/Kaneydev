@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Kaneydev/Kaneydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rayon Kaney
 
-Here are some ideas to get you started:
+Software Engineering Student
+Frontend & Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning
+HTML
+CSS
+JavaScript
+Responsive Web Design
+
+🛠️ Building
+Real-world web projects
+
+🎯 Goals
+Frontend Developer → Full-Stack Developer
+
+📚 Exploring
+Python
+AI
+Machine Learning
+LLMs
+
