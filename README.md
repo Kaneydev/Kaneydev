@@ -1,25 +1,12 @@
-## Hi there 👋
+# Hi, I'm Kaney 👋
 
-I'm Kaney
+Second-year Software Engineering student and frontend developer.
 
-Software Engineering Student
-Frontend & Web Developer
+- 🚀 Learning: HTML, CSS, JavaScript, responsive design
+- 🛠️ Building: real-world web projects
+- 🎯 Goal: Frontend → Full-Stack Developer
+- 📚 Exploring: Python, AI, Machine Learning, LLMs
 
-🚀 Currently learning
-HTML
-CSS
-JavaScript
-Responsive Web Design
-
-🛠️ Building
-Real-world web projects
-
-🎯 Goals
-Frontend Developer → Full-Stack Developer
-
-📚 Exploring
-Python
-AI
-Machine Learning
-LLMs
+## 🌐 My Work
+**[View my portfolio](https://kaneydev.github.io/kaneylibrary/portfolio/)** · [Repository](https://github.com/Kaneydev/kaneylibrary)
 
