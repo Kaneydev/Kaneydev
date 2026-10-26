@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rayon Kaney
+I'm Kaney
 
 Software Engineering Student
 Frontend & Web Developer
